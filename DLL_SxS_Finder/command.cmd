@@ -1,0 +1,1 @@
+pip install pefile openpyxl pywin32 procmon_parser
